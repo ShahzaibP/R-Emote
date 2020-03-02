@@ -1,0 +1,10 @@
+cv2
+imutils
+numpy
+pandas
+os
+imageio
+keras
+pygame
+phue
+soco
