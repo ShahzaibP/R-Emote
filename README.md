@@ -10,4 +10,6 @@ Note that if you want to use it, you will need a Sonos speaker and a Philips Hue
 
 The use cases are endless. It can help technologically-challenged seniors, people who don't have the ability to speak or to do so properly for the machine to understand, people with accents that are not well-supported by the virtual assistants, people facing some sort of disability, people with lesser dexterity and people who don't have the ability to maneuver smart appliances otherwise.
 
+The order of use is 1) createHandImpressions.ipynb, 2) bringTocsv.ipynb, and then 3) trainAndDetect.ipynb.
+
 I have a very large dataset for the file which GitHub does not allow me to put up, however one can easily be generated with the code I have up here.
