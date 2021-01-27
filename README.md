@@ -1,7 +1,5 @@
 # R-Emote
 
-This is my latest piece of work.
- 
 I use Machine Learning in a somewhat practical setting. This project involves the full development of a convolutional neural network to detect hand gestures that can control smart appliances around me. This can read hand gestures, convert them to a computer-readable CSV file and then train a neural network to work accordingly. It even returns an emoji for the gesture it detects, as a visual cue.
 
 I capture my hand gestures via my webcam, capture 1500 images per gesture for a total of 8 gestures. I train the model with 12000 images, and the results come out to be very accurate.
